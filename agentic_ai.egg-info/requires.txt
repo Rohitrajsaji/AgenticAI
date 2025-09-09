@@ -1,0 +1,9 @@
+openai<2,>=1
+pydantic<3,>=2
+httpx<0.28,>=0.27
+tenacity<9,>=8
+rich<14,>=13
+click<9,>=8
+duckduckgo-search<7,>=6
+beautifulsoup4<5,>=4
+lxml<7,>=5

@@ -1,0 +1,6 @@
+{
+  "codium.codeCompletion.enable": true,
+  "python.defaultInterpreterPath": "/Users/rohitrajsaji/Desktop/AgenticAI/.venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticMode": "workspace"
+}
