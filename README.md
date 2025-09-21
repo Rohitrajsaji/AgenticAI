@@ -37,7 +37,7 @@ AgenticAI/
 ## 🔹 Installation
 
 1. Clone the repository:  
-            git clone https://github.com/YOUR_USERNAME/AgenticAI.git
+            git clone https://github.com/rohitrajsaji/AgenticAI.git
             cd AgenticAI
 2.Create and activate a virtual environment:
             python -m venv .venv
